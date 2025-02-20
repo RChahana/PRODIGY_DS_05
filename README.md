@@ -1,6 +1,7 @@
 🚦 Road Traffic Analysis
 📌 Project Overview
-This project analyzes road traffic data to identify patterns, congestion trends, and accident-prone areas. Using data-driven techniques, it helps improve traffic management and decision-making.
+This project analyzes road traffic data to identify patterns, congestion trends, and accident-prone areas.
+Using data-driven techniques, it helps improve traffic management and decision-making.
 
 🛠 Tech Stack & Tools Used
 Python – Core programming language
